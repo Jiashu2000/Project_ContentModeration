@@ -1,9 +1,9 @@
-# Project_ContentModeration
+# Automated Content Moderation: NLP Against Toxic Comments
 
-Team 1: Jiashu Chen, Qianqian Liu, Irene Yang, Chesie Yu
+## Authors: Jiashu Chen, Qianqian Liu, Irene Yang, Chesie Yu
 
 
-## TABLE OF CONTENTS
+## Table of Contents
 - I. Abstract
 - II. Introduction
 - III. Data
